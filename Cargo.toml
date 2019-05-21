@@ -1,0 +1,8 @@
+[package]
+name = "rust_flatbuffers_example"
+version = "0.1.0"
+authors = ["rw <me@rwinslow.com>"]
+edition = "2018"
+
+[dependencies]
+flatbuffers = "*"

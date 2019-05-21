@@ -1,6 +1,6 @@
 # Rust FlatBuffers Example
 
-Companion code to the blog post [https://rwinslow.com/posts/use-flatbuffers-in-rust/].
+Companion code to the blog post https://rwinslow.com/posts/use-flatbuffers-in-rust/
 
 ## Usage
 
